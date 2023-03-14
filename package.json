@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/jaeaeich.fast-lf7zecsv",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve WXmplbvlh5VOj39bK7iI --open"
+  },
+  "dependencies": {
+    "@microsoft/fast-element": "^1"
+  }
+}
